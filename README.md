@@ -3,7 +3,7 @@
 
 <!-- TOC -->
 
-- [Semantic Segmentation in PyTorch](#semantic-segmentation-in-pytorch)
+- [Semantic Segmentation in PyTorch]()
   - [Requirements](#requirements)
   - [Main Features](#main-features)
     - [Models](#models)
